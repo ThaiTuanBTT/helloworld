@@ -7,9 +7,8 @@
     <title>Supermans</title>
 </head>
 <body>
-    <picture>
-        <source srcset="sourceset" type="image/svg+xml">
-        <img src="https://i.ytimg.com/vi/C-pyMcda5Lw/maxresdefault.jpg" alt="image desc">
-      </picture>
+    <img src = "https://i.ytimg.com/vi/C-pyMcda5Lw/maxresdefault.jpg" alt="">
+    <img src = "image/vietnam.png" alt="">
 </body>
+
 </html>
